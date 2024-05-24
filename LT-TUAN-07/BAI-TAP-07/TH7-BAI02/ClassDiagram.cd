@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SINHVIEN">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAAAgEAAUQEAAEgAAAACAAABEAAQBACIAAAAA=</HashCode>
+      <FileName>SINHVIEN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SINHVIENCHINHQUY">
+    <Position X="11.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAAAAABABAAAAEAABAAAAAAAAABAAAAIBAAAA=</HashCode>
+      <FileName>SINHVIENCHINHQUY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SINHVIENLIENTHONG">
+    <Position X="8" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAFAAAAABAAAAEAAAEAIAAAAAAAAAAAAAAAIAAAEA=</HashCode>
+      <FileName>SINHVIENLIENTHONG.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRUONGDAIHOC">
+    <Position X="0.75" Y="0.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>ggAQlAAAAAAIAAAgAAAAgIAAAAkAgAAAAoAEAAgAAAw=</HashCode>
+      <FileName>TRUONGDAIHOC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
