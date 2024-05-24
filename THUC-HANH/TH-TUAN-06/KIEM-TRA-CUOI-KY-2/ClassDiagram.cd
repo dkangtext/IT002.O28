@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CONGTY">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAACAIAAAAAAAAABgAAAAgCAAQEABAACAAAA=</HashCode>
+      <FileName>CONGTY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KIEMCHUNGVIEN">
+    <Position X="11.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAFBAAAAEAAAAAQAAEAAAAQAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>KIEMCHUNGVIEN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAPTRINHVIEN">
+    <Position X="8.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAEBAAAAAAIAACQAAEAAAAAAACAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>LAPTRINHVIEN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NHANVIEN">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAIBEAAAACAAAAiAUIAFGQCAAAAAIBAAAQEQAAABAAA=</HashCode>
+      <FileName>NHANVIEN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

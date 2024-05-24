@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KIEMTRACUOIKY2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\CONGTY.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\CONGTY.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\NHANVIEN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\NHANVIEN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\LAPTRINHVIEN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\LAPTRINHVIEN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\KIEMCHUNGVIEN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\KIEMCHUNGVIEN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\KIEMCHUNGVIEN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\KIEMCHUNGVIEN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\LAPTRINHVIEN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\LAPTRINHVIEN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\NHANVIEN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\NHANVIEN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\CONGTY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC19C46-797B-4417-BB7B-0DF6E26008AC}|KIEMTRACUOIKY2\\KIEMTRACUOIKY2.vcxproj|solutionrelative:KIEMTRACUOIKY2\\CONGTY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\ClassDiagram.cd",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\ClassDiagram.cd",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-21T03:04:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NHANVIEN.h",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\NHANVIEN.h",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\NHANVIEN.h",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\NHANVIEN.h",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\NHANVIEN.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T00:57:06.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KIEMCHUNGVIEN.h",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\KIEMCHUNGVIEN.h",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\KIEMCHUNGVIEN.h",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\KIEMCHUNGVIEN.h",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\KIEMCHUNGVIEN.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T01:41:38.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KIEMCHUNGVIEN.cpp",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\KIEMCHUNGVIEN.cpp",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\KIEMCHUNGVIEN.cpp",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\KIEMCHUNGVIEN.cpp",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\KIEMCHUNGVIEN.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:55:10.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LAPTRINHVIEN.cpp",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\LAPTRINHVIEN.cpp",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\LAPTRINHVIEN.cpp",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\LAPTRINHVIEN.cpp",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\LAPTRINHVIEN.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T01:26:16.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CONGTY.h",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\CONGTY.h",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\CONGTY.h",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\CONGTY.h",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\CONGTY.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T01:54:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NHANVIEN.cpp",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\NHANVIEN.cpp",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\NHANVIEN.cpp",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\NHANVIEN.cpp",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\NHANVIEN.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T01:05:26.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\main.cpp",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\main.cpp",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\main.cpp",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\main.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:32:19.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAPTRINHVIEN.h",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\LAPTRINHVIEN.h",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\LAPTRINHVIEN.h",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\LAPTRINHVIEN.h",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\LAPTRINHVIEN.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T00:53:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CONGTY.cpp",
+              "DocumentMoniker": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\CONGTY.cpp",
+              "RelativeDocumentMoniker": "KIEMTRACUOIKY2\\CONGTY.cpp",
+              "ToolTip": "D:\\KIEMTRACUOIKY2\\KIEMTRACUOIKY2\\CONGTY.cpp",
+              "RelativeToolTip": "KIEMTRACUOIKY2\\CONGTY.cpp",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAgwNUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:11:15.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

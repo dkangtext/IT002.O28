@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\PRACTICE_OBJECT_ORIENTED_PROGRAMMING\PTB1\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PTB1.cpp
+  PTB2.cpp
+  Generating Code...
+  PTB1.vcxproj -> D:\PRACTICE_OBJECT_ORIENTED_PROGRAMMING\x64\Debug\PTB1.exe

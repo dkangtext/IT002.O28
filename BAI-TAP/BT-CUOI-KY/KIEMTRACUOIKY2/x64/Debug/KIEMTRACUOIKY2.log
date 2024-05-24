@@ -1,0 +1,47 @@
+﻿  CONGTY.cpp
+D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\CONGTY.h(14,22): warning C4584: 'CONGTY': base-class 'NHANVIEN' is already a base-class of 'KIEMCHUNGVIEN'
+  (compiling source file 'CONGTY.cpp')
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\NHANVIEN.h(9,7):
+  see declaration of 'NHANVIEN'
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\KIEMCHUNGVIEN.h(7,7):
+  see declaration of 'KIEMCHUNGVIEN'
+  
+D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\CONGTY.h(14,22): warning C4584: 'CONGTY': base-class 'NHANVIEN' is already a base-class of 'LAPTRINHVIEN'
+  (compiling source file 'CONGTY.cpp')
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\NHANVIEN.h(9,7):
+  see declaration of 'NHANVIEN'
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\LAPTRINHVIEN.h(9,7):
+  see declaration of 'LAPTRINHVIEN'
+  
+  KIEMCHUNGVIEN.cpp
+  LAPTRINHVIEN.cpp
+  main.cpp
+D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\CONGTY.h(14,22): warning C4584: 'CONGTY': base-class 'NHANVIEN' is already a base-class of 'KIEMCHUNGVIEN'
+  (compiling source file 'main.cpp')
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\NHANVIEN.h(9,7):
+  see declaration of 'NHANVIEN'
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\KIEMCHUNGVIEN.h(7,7):
+  see declaration of 'KIEMCHUNGVIEN'
+  
+D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\CONGTY.h(14,22): warning C4584: 'CONGTY': base-class 'NHANVIEN' is already a base-class of 'LAPTRINHVIEN'
+  (compiling source file 'main.cpp')
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\NHANVIEN.h(9,7):
+  see declaration of 'NHANVIEN'
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\LAPTRINHVIEN.h(9,7):
+  see declaration of 'LAPTRINHVIEN'
+  
+D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\main.cpp(6,12): error C2259: 'CONGTY': cannot instantiate abstract class
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\CONGTY.h(14,7):
+  see declaration of 'CONGTY'
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\main.cpp(6,12):
+  due to following members:
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\main.cpp(6,12):
+  'double NHANVIEN::Luong(void)': is abstract
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\NHANVIEN.h(34,17):
+  see declaration of 'NHANVIEN::Luong'
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\main.cpp(6,12):
+  'std::string NHANVIEN::getLoai(void)': is abstract
+  D:\KIEMTRACUOIKY2\KIEMTRACUOIKY2\NHANVIEN.h(35,17):
+  see declaration of 'NHANVIEN::getLoai'
+  
+  Generating Code...
